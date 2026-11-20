@@ -14,3 +14,7 @@
 
 /* Keep image and empty photo slots identical so member captions align. */
 .member{display:flex;flex-direction:column;align-items:stretch}.member-photo{display:block;width:100%;height:auto;aspect-ratio:4/5;flex:none;box-sizing:border-box;margin:0;object-fit:cover}.member h4{margin:18px 0 14px;line-height:1.7}.member-description{margin-top:0}
+
+.visitor-map{max-width:800px}
+
+.visitor-map{max-width:1100px}.visitor-display{display:grid;grid-template-columns:minmax(0,1fr) 300px;align-items:center;gap:30px}.visitor-counter-panel{display:flex;justify-content:center}.visitor-map-panel{min-width:0}@media(max-width:900px){.visitor-display{grid-template-columns:1fr;gap:22px}}
