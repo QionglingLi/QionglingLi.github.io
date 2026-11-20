@@ -1,0 +1,41 @@
+email: qionglingli@szu.edu.cn
+avatar: assets/img/portrait.jpg
+scholar: https://scholar.google.com/citations?user=20dv1PMAAAAJ
+university_profile: https://psy.szu.edu.cn/info/1020/2473.htm
+updated: 2026-11-18
+copyright_year: 2026
+zh:
+  name: 李琼玲
+  secondary_name: Qiongling Li, Ph.D.
+  position: “百人计划”助理教授、特聘研究员、博士生导师
+  affiliation: 深圳大学心理学院
+  description: 李琼玲，深圳大学心理学院助理教授、博士生导师。研究脑连接组学、儿童脑发育、脑可塑性与神经影像。
+  labels:
+    skip: 跳转正文
+    university: 单位主页
+    navigation: 页面导航
+    about: 个人简介
+    research: 研究方向
+    publications: 代表论文
+    experience: 教育与经历
+    contact: 联系
+    content: 学术主页内容
+    updated: 更新于
+en:
+  name: Qiongling Li
+  secondary_name: 李琼玲; Ph.D.
+  position: Assistant Professor, Distinguished Research Fellow, Doctoral Supervisor
+  affiliation: School of Psychology, Shenzhen University
+  description: Qiongling Li, Assistant Professor at Shenzhen University. Research
+    in connectomics, early brain development, neuroplasticity, and neuroimaging.
+  labels:
+    skip: Skip to content
+    university: University Profile
+    navigation: Page navigation
+    about: About
+    research: Research
+    publications: Publications
+    experience: Experience
+    contact: Contact
+    content: Academic profile
+    updated: Updated

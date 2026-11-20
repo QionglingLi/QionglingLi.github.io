@@ -1,0 +1,53 @@
+- category: Postdoc
+  members:
+    - name: 陈棣成
+      name_en: Dicheng Chen
+      photo: assets/img/team/陈棣成.png
+      description: >
+        from 2026
+
+        Human brain imaging analysis, Human brain metabolic connectome, Magnetic
+        resonance spectroscopy imaging
+      url: https://psy.szu.edu.cn/info/1023/4792.htm
+- category: PhD Student
+  members:
+    - name: ""
+      name_en: ""
+      photo: ""
+      description: ""
+- category: Master Student
+  members:
+    - name: 喻欢
+      name_en: Huan Yu
+      photo: assets/img/team/喻欢.jpg
+      description: |
+        from 2025
+        7T fMRI, Seg/Integration
+    - name: 郑珂
+      name_en: Ke Zheng
+      photo: assets/img/team/郑珂.jpg
+      description: |
+        from 2026
+        3T fMRI, Seg/Integration balance
+- category: Undergraduate Student
+  members:
+    - name: 熊婉茹
+      name_en: Wanru Xiong
+      photo: assets/img/team/熊婉茹.jpg
+      description: from 2026
+    - name: 吴芯祁
+      name_en: Xinqi Wu
+      photo: ""
+      description: from 2026
+    - name: 林轩羽
+      name_en: Xuanyu Lin
+      photo: assets/img/team/林轩羽.jpg
+      description: from 2026
+    - name: 卢梓宁
+      name_en: Zining Lu
+      photo: ""
+      description: from 2026
+    - name: 林伊晴
+      name_en: Yiqing Lin
+      photo: assets/img/team/林伊晴.jpg
+      description: from 2026
