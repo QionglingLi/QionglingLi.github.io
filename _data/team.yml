@@ -2,13 +2,14 @@
   members:
     - name: 陈棣成
       name_en: Dicheng Chen
-      photo: assets/img/team/陈棣成.png
+      photo: assets/img/optimized/team/陈棣成.webp
       description: >
         from 2026
 
         Human brain imaging analysis, Human brain metabolic connectome, Magnetic
         resonance spectroscopy imaging
       url: https://psy.szu.edu.cn/info/1023/4792.htm
+      photo_original: assets/img/team/陈棣成.png
 - category: PhD Student
   members:
     - name: ""
@@ -19,35 +20,41 @@
   members:
     - name: 喻欢
       name_en: Huan Yu
-      photo: assets/img/team/喻欢.jpg
+      photo: assets/img/optimized/team/喻欢.webp
       description: |
         from 2025
         7T fMRI, Seg/Integration
+      photo_original: assets/img/team/喻欢.jpg
     - name: 郑珂
       name_en: Ke Zheng
-      photo: assets/img/team/郑珂.jpg
+      photo: assets/img/optimized/team/郑珂.webp
       description: |
         from 2026
         3T fMRI, Seg/Integration balance
+      photo_original: assets/img/team/郑珂.jpg
 - category: Undergraduate Student
   members:
     - name: 熊婉茹
       name_en: Wanru Xiong
-      photo: assets/img/team/熊婉茹.jpg
+      photo: assets/img/optimized/team/熊婉茹.webp
       description: from 2026
+      photo_original: assets/img/team/熊婉茹.jpg
     - name: 吴芯祁
       name_en: Xinqi Wu
-      photo: assets/img/team/吴芯祁.jpg
+      photo: assets/img/optimized/team/吴芯祁.webp
       description: from 2026
+      photo_original: assets/img/team/吴芯祁.jpg
     - name: 林轩羽
       name_en: Xuanyu Lin
-      photo: assets/img/team/林轩羽.jpg
+      photo: assets/img/optimized/team/林轩羽.webp
       description: from 2026
+      photo_original: assets/img/team/林轩羽.jpg
     - name: 卢梓宁
       name_en: Zining Lu
       photo: ""
       description: from 2026
     - name: 林伊晴
       name_en: Yiqing Lin
-      photo: assets/img/team/林伊晴.jpg
+      photo: assets/img/optimized/team/林伊晴.webp
       description: from 2026
+      photo_original: assets/img/team/林伊晴.jpg

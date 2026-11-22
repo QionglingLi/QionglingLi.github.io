@@ -1,5 +1,5 @@
 email: qionglingli@szu.edu.cn
-avatar: assets/img/portrait.jpg
+avatar: assets/img/optimized/portrait.webp
 scholar: https://scholar.google.com/citations?user=20dv1PMAAAAJ
 university_profile: https://psy.szu.edu.cn/info/1020/2473.htm
 updated: 2026-11-18
@@ -39,3 +39,4 @@ en:
     contact: Contact
     content: Academic profile
     updated: Updated
+avatar_original: assets/img/portrait.jpg
